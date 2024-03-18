@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá Mundo, me chamo Kennedy Sales.
 🔭 Sou estudante de Front-End, atualmente no 3º período da faculdade de ADS.<br>🤝 Focado em aprender novas linguagens de programação.<br>🌱 Sou um entusiasta da tecnologia com paixão por desenvolvimento web.<br>
 
 
